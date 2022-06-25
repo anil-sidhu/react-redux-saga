@@ -32,6 +32,17 @@
 
 /* end header style */
 
+/* product UI style */
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-item{
+  border: 1px solid #ccc;
+  padding: 20px;
+    margin: 20px;
+}
+/* end product Ui style */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
