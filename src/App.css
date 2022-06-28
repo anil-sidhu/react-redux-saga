@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.logo {
+  float: left;
+  margin: 0;
+  padding: 20px;
+}
 /* header style */
 .header{
   background-color: orange;
