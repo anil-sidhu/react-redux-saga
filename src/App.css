@@ -48,6 +48,36 @@
     margin: 20px;
 }
 /* end product Ui style */
+
+/* cart page style */
+.cart-page-container{
+  display: flex;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.cart-page-container table{
+  flex: 65%;
+    border-collapse: collapse;
+}
+.cart-page-container table td{
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+.price-details{
+  flex: 35%;
+  margin: 0px 30px;
+}
+.price-details .adjust-price{
+  display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.price-details .adjust-price span{
+  font-size: 20px;
+}
+/* end cart page style */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
