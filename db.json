@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung M 40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "Samsung",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Samsung F20",
+            "color": "white",
+            "price": 50000,
+            "category": "Mobile",
+            "brand": "Samsung",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 3,
+            "name": "T-shirt",
+            "color": "red",
+            "price": 5000,
+            "category": "cloths",
+            "brand": "Nike",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sports Shoes",
+            "color": "red and black",
+            "price": 8000,
+            "category": "rebook",
+            "brand": "Nike",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 5,
+            "name": "530 laptop",
+            "color": "white",
+            "price": 88000,
+            "category": "laptop",
+            "brand": "HP",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 6,
+            "name": "earphone - 10",
+            "color": "green",
+            "price": 800,
+            "category": "earphone",
+            "brand": "mivi",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 7,
+            "name": "black shirt",
+            "color": "black",
+            "price": 1800,
+            "category": "cloths",
+            "brand": "tommy",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 8,
+            "name": "green shirt",
+            "color": "green",
+            "price": 1900,
+            "category": "cloths",
+            "brand": "tommy",
+            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        }
+    ]
+}
