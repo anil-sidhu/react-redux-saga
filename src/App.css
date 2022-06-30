@@ -78,6 +78,16 @@
   font-size: 20px;
 }
 /* end cart page style */
+.search-box{
+  float: left;
+  width: 60%;
+  padding: 25px;
+}
+.search-box input{
+  width: 100%;
+    height: 30px;
+    padding-left: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
